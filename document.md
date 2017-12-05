@@ -2,7 +2,11 @@
 Where
 -----
 
--
+- Large areas of Victoria
+
+- 2 million hectares
+
+- Whole townships engulfed
 
 What
 ----
