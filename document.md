@@ -71,7 +71,13 @@ Aftermath
 Effects
 -------
 
--
+- 71 people died
+
+- Whole townships destroyed
+
+- Many sawmills burned to ground
+
+- Thousands of sheep, cattle, horses killed
 
 Changes over time
 -----------------
