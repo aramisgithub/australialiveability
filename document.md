@@ -60,6 +60,10 @@ What do they think?
 
 - No official cause identified
 
+    - Potential causes identified above did not comment
+
+- Fire brigade and management services say that it is very unlikely to ever get 
+  that bad again
 
 Aftermath
 =========
