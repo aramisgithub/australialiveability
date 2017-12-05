@@ -11,7 +11,13 @@ Where
 What
 ----
 
--
+- Large bushfires
+
+- After drought
+
+- Severe, hot, dry summer
+
+- Extremely song winds
 
 Why
 ---
