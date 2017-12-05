@@ -41,18 +41,25 @@ Why
 Who
 ---
 
-- Land owners
+- Potential causes:
 
-- Graziers
+    - Land owners
 
-- Miners
+    - Graziers
 
-- Forest workers
+    - Miners
+
+    - Forest workers
+
+- Rural fire service
+
+- Country fire authority
 
 What do they think?
 -------------------
 
--
+- No official cause identified
+
 
 Aftermath
 =========
