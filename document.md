@@ -79,18 +79,28 @@ Effects
 
 - Thousands of sheep, cattle, horses killed
 
+- Millions of hectares of forests damaged
+
+- Soil fertility affected
+
+- Important wwater catchments impacted
+
+- Soil burned so much that took decades for it to restore
+
 Changes over time
 -----------------
 
--
+- 
 
 Should it be like this?
 -----------------------
 
--
+- No, it should not
+
+- 
 
 Solutions
 ---------
 
--
+- 
 
