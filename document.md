@@ -97,7 +97,9 @@ Changes over time
 Should it be like this?
 -----------------------
 
-- No, it should not
+- No, it should not be like this
+
+- 
 
 - 
 
@@ -106,5 +108,7 @@ Solutions
 
 - More back burning
 
-- 
+- Aerial firefighting
+
+    - Dropping water from helicopters, airplanes, etc.
 
