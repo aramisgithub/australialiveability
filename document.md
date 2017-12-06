@@ -83,7 +83,7 @@ Effects
 
 - Soil fertility affected
 
-- Important wwater catchments impacted
+- Important water catchments impacted
 
 - Soil burned so much that took decades for it to restore
 
