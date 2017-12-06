@@ -15,6 +15,8 @@ What
 
 - Extreme winds
 
+- Large damage to environment and property
+
 Why
 ---
 
@@ -108,7 +110,13 @@ Solutions
 
 - More back burning
 
+    - These fires were the catalyst for widespread back burning
+
 - Aerial firefighting
 
-    - Dropping water from helicopters, airplanes, etc.
+   - Water-bombing
+
+- Better co-operation of competing agencies
+
+- Better training for firefighters
 
