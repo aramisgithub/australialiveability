@@ -90,7 +90,9 @@ Effects
 Changes over time
 -----------------
 
-- 
+- Fire was only present for short period of time in 1939
+
+- Not there anymore
 
 Should it be like this?
 -----------------------
