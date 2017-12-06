@@ -99,9 +99,9 @@ Should it be like this?
 
 - No, it should not be like this
 
-- 
+- Largely caused by many dangerous factors coinciding
 
-- 
+- Not likely to occur again
 
 Solutions
 ---------
